@@ -1,0 +1,1 @@
+export function getListing(id = 0) {}
